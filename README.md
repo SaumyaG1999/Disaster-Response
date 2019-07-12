@@ -20,6 +20,15 @@ The aim of the project is to build a Natural Language Processing tool that categ
 
 The Project is divided in the following Sections:
 
-1. Data Processing, ETL Pipeline to extract data from source, clean data and save them in a proper databse structure
-2. Machine Learning Pipeline to train a model able to classify text message in categories
+1. Data Processing, ETL Pipeline to extract data from source, clean data and save them in a proper databse structure.
+2. Machine Learning Pipeline to train a model able to classify text message in categories.
 3. Web App to show model results in real time.
+
+## Getting Started
+
+### Dependencies
+* Python 3.5+ (I used Python 3.7)
+* Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+* Natural Language Process Libraries: NLTK
+* SQLlite Database Libraqries: SQLalchemy
+* Web App and Data Visualization: Flask, Plotly
