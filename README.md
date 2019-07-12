@@ -54,19 +54,5 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 ## Acknowledgements
 
 * [Udacity](https://www.udacity.com/) for providing such a complete Data Science Nanodegree Program
-* [Figure Eight](https://www.figure-eight.com/) for providing messages dataset to train my model
+* [Figure Eight](https://www.figure-eight.com/) for providing the dataset to train my model
 
-<a name="screenshots"></a>
-## Screenshots
-
-1. This is an example of a message you can type to test Machine Learning model performance
-
-![Sample Input](screenshots/sample_input.png)
-
-2. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
-
-![Sample Output](screenshots/sample_output.png)
-
-3. The main page shows some graphs about training dataset, provided by Figure Eight
-
-![Main Page](screenshots/main_page.png)
