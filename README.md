@@ -5,8 +5,7 @@
 2. [Getting Started](#getting_started)
 	1. [Dependencies](#dependencies)
 	2. [Installing](#installing)
-	3. [Executing Program](#executing)
-	4. [Additional Material](#material)
+	3. [Additional Material](#material)
 3. [Authors](#authors)
 4. [License](#license)
 5. [Acknowledgement](#acknowledgement)
@@ -42,3 +41,32 @@ In the **data** and **models** folder you can find two jupyter notebook that wil
 You can use **ML Pipeline Preparation Notebook** to re-train the model or tune it through a dedicated Grid Search section.
 In this case, it is warmly recommended to use a Linux machine to run Grid Search, especially if you are going to try a large combination of parameters.
 Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several hours to complete. 
+
+## Authors
+
+* [Matteo Bonanomi](https://github.com/matteobonanomi)
+
+<a name="license"></a>
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<a name="acknowledgement"></a>
+## Acknowledgements
+
+* [Udacity](https://www.udacity.com/) for providing such a complete Data Science Nanodegree Program
+* [Figure Eight](https://www.figure-eight.com/) for providing messages dataset to train my model
+
+<a name="screenshots"></a>
+## Screenshots
+
+1. This is an example of a message you can type to test Machine Learning model performance
+
+![Sample Input](screenshots/sample_input.png)
+
+2. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
+
+![Sample Output](screenshots/sample_output.png)
+
+3. The main page shows some graphs about training dataset, provided by Figure Eight
+
+![Main Page](screenshots/main_page.png)
