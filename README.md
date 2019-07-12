@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Getting Started](#getting)
+2. [Getting Started](#started)
 	1. [Dependencies](#dependencies)
 	2. [Additional Material](#additional)
 3. [Authors](#authors)
