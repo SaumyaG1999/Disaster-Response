@@ -4,7 +4,7 @@
 1. [Description](#description)
 2. [Getting Started](#started)
 	1. [Dependencies](#dependencies)
-	2. [Additional Material](#additional)
+	2. [Additional Material](#material)
 3. [Authors](#authors)
 4. [License](#license)
 5. [Acknowledgement](#acknowledgement)
