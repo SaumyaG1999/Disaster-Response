@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Getting Started](#Started)
+2. [Guide](#Guide)
 	1. [Dependencies](#dependencies)
 	2. [Executing Program](#Executing)
 	3. [Additional Material](#material)
@@ -15,13 +15,13 @@ This Project is part of Data Science Nanodegree Program by Udacity in collaborat
 The initial dataset contains pre-labelled tweet and messages from real-life disaster. 
 The aim of the project is to build a Natural Language Processing tool that categorize messages.
 
-The Project is divided in the following Sections:
+The Project is divided in 3 Sections:
 
-1. Data Processing, ETL Pipeline to extract data from source, clean data and save them in a proper databse structure.
-2. Machine Learning Pipeline to train a model able to classify text message in categories.
+1. Data Pre-Processing which includ an ETL Pipeline to extract data from source, clean data and save them in a proper databse structure.
+2. Machine Learning Pipeline to train a model, able to classify text message in categories.
 3. Web App to show model results in real time.
 
-## Getting Started
+## Guide:
 
 ### Dependencies
 * Python 3.5+
@@ -44,14 +44,14 @@ The Project is divided in the following Sections:
     
 3. Go to http://0.0.0.0:3001/
 
-### Additional Material
+### Additional Notebook's:
 
 In the **data** and **models** folder, you can find one jupyter notebook each that will help you understand how the model works step by step:
 1. **ETL Pipeline Preparation Notebook**: learn everything about the implemented ETL pipeline
-2. **ML Pipeline Preparation Notebook**: look at the Machine Learning Pipeline developed with NLTK and Scikit-Learn
+2. **ML Pipeline Preparation Notebook**: look at the Machine Learning Pipeline developed with NLTK and Scikit-Learn libraries
 
-You can use **ML Pipeline Preparation Notebook** train the model or tune it through a dedicated Grid Search .
-In this case, it is warmly recommended to use a Linux machine to run Grid Search, especially if you are going to try a large combination of parameters in the model .
+You can use **ML Pipeline Preparation Notebook** to train the model or tune it with the help of a Grid Search .
+In this case, it is recommended to use a machine with GPU to run Grid Search, especially if you are going to try a large combination of parameters in the model .
 Use of a standard desktop/laptop may take few hours to complete. 
 
 ## Authors
@@ -60,6 +60,6 @@ Use of a standard desktop/laptop may take few hours to complete.
 
 ## Acknowledgements
 
-* [Udacity](https://www.udacity.com/) for providing such a great Data Science Nanodegree Program . Grateful to the whole udacity team .
-* Must give credits to [Figure Eight](https://www.figure-eight.com/) for providing the dataset to train my model.
+* Must give credits to [Udacity](https://www.udacity.com/) for providing such a great Data Science Nanodegree Program . Grateful to the   whole udacity team .
+* [Figure Eight](https://www.figure-eight.com/) for providing the dataset to train my model.
 
