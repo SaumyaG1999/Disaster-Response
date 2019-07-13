@@ -5,8 +5,8 @@
 2. [Getting Started](#started)
 	1. [Dependencies](#dependencies)
 	2. [Additional Material](#material)
-3. [Authors] (#authors)
-4. [Acknowledgement] (#acknowledgement)
+3. [Authors](#Authors)
+4. [Acknowledgements](#Acknowledgements)
 
 ## Description
 
