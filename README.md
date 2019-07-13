@@ -4,7 +4,8 @@
 1. [Description](#description)
 2. [Getting Started](#Started)
 	1. [Dependencies](#dependencies)
-	2. [Additional Material](#material)
+	2. [Executing Program](#Executing)
+	3. [Additional Material](#material)
 3. [Authors](#Authors)
 4. [Acknowledgements](#Acknowledgements)
 
@@ -28,6 +29,20 @@ The Project is divided in the following Sections:
 * Natural Language Process Libraries: NLTK
 * SQLlite Database Libraqries: SQLalchemy
 * Web App and Data Visualization: Flask, Plotly
+
+### Executing Program
+
+1. Run the following commands in the project's root directory to set up your database and model.
+
+    - To run ETL pipeline that cleans data and stores in database
+        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+    - To run ML pipeline that trains classifier and saves
+        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+
+2. Run the following command in the app's directory to run your web app.
+    `python run.py`
+    
+3. Go to http://0.0.0.0:3001/
 
 ### Additional Material
 
