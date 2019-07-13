@@ -46,5 +46,5 @@ Use of a standard desktop/laptop may take few hours to complete.
 ## Acknowledgements
 
 * [Udacity](https://www.udacity.com/) for providing such a great Data Science Nanodegree Program . Grateful to the whole udacity team .
-* Msut give credits to [Figure Eight](https://www.figure-eight.com/) for providing the dataset to train my model.
+* Must give credits to [Figure Eight](https://www.figure-eight.com/) for providing the dataset to train my model.
 
