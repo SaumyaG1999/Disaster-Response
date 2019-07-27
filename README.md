@@ -23,12 +23,12 @@ The Project is divided in 3 Sections:
 
 ## Guide:
 
-### Dependencies
-* Python 3.5+
-* Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
-* Natural Language Process Libraries: NLTK
-* SQLlite Database Libraqries: SQLalchemy
-* Web App and Data Visualization: Flask, Plotly
+    ### Dependencies
+      * Python 3.5+
+      * Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+      * Natural Language Process Libraries: NLTK
+      * SQLlite Database Libraqries: SQLalchemy
+      * Web App and Data Visualization: Flask, Plotly
 
 ### Executing Program
 
